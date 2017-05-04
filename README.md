@@ -6,7 +6,7 @@ The tool wants to be an help for avalanche forecasters.
 
 ## Why two r files?
 
-PRA_R.r is the original algorithm upon which the extended one (PRA_R_LI.r) is based.
+PRA_R.r is the original algorithm upon which the extended one (pra_R_LI.r) is based.
 The first one is the same you can find at this link https://github.com/jocha81/Avalanche-release 
 	
 ## License Agreement:
@@ -19,5 +19,5 @@ The only restriction if you want to redistribute the source code is:
 If the original tool (PRA_R.r) is used in a scientific publication, please cite the following paper:
 Veitinger, J., Purves, R. S., and Sovilla, B.: Potential slab avalanche release area identification from estimated winter terrain: a multi-scale, fuzzy logic approach, Nat. Hazards Earth Syst. Sci. Discuss., 3, 6569-6614, doi:10.5194/nhessd-3-6569-2015, 2015. 
 
-Whereas if the extended tool is used (PRA_R_LI.r), please cite the following thesis:
+Whereas if the extended tool is used (pra_R_LI.r), please cite the following thesis:
 Iacolettig, L. (2017): La pericolosità da valanga calcolata e visualizzata. Un modello numerico-geografico, Master's Thesis, University of Udine, doi:10.13140/RG.2.2.27066.18880 
