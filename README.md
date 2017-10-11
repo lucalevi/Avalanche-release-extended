@@ -1,10 +1,10 @@
 # What is it?
 
-Avalanche bulletins use graphics, text and icons in order to (qualitatively) inform about avalanche hazard, but it lacks detailed geographical evidence that localises the truly dangerous areas. Attempting to overcome this limitation, a numerical model was developed to support avalanche forecasters: it automatically visualises and quantifies dangerous areas, thus providing objective data, by calculating slab avalanches release propensity according to current snow and weather conditions. The model extends an existing algorithm; its parameters were determined by analising avalanche bulletins and through a survey addressed to professionals. Several parameters have been integrated, such as snowpack stability, dangerous aspects and altitudes, and a snow cover mask with changeable boundaries; furthermore, the model calculates the amount of dangerous steep slopes in a given area. 
-"The algorithm produces a raster map (asci format) which values ranging from 0 to 1. A value of 0 indicates locations where avalanches are not possible to release whereas a value of 1 corresponds to locations that are highly favorable for avalanche release." (from https://github.com/jocha81/Avalanche-release )
-The tool wants to be an help for avalanche forecasters.
+Avalanche bulletins use graphics, text and icons in order to (qualitatively) inform about avalanche hazard, but it lacks detailed geographical evidence that localises the truly dangerous areas. Attempting to overcome this limitation, a numerical model was developed to support avalanche forecasters: it automatically visualises and quantifies dangerous areas, thus providing objective data, by calculating slab avalanches release propensity according to current snow and weather conditions. The model extends an existing algorithm; its parameters were determined by analisyng avalanche bulletins and through a survey addressed to professionals. Several parameters have been integrated, such as snowpack stability, dangerous aspects and altitudes, and a snow cover mask with changeable boundaries; furthermore, the model calculates the amount of dangerous steep slopes in a given area. 
+"The algorithm produces a raster map (asci format) which values ranging from 0 to 1. A value of 0 indicates locations where avalanches are not possible to release whereas a value of 1 corresponds to locations that are highly favourable for avalanche release." (from https://github.com/jocha81/Avalanche-release )
+The tool wants to be a help for avalanche forecasters.
 
-## Why two r files?
+## Why two R files?
 
 PRA_R.r is the original algorithm upon which the extended one (pra_R_LI.r) is based.
 The first one is the same you can find at this link https://github.com/jocha81/Avalanche-release 
