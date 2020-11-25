@@ -9,7 +9,7 @@ Original code at https://github.com/jocha81/Avalanche-release
 
 The parameters of the extended model were determined analisyng avalanche bulletins and with a professioanl survey. Several parameters have been integrated: snowpack stability, dangerous aspects and altitudes, and a snow cover mask with aspect-varying boundaries. The model calculates finally the amount of dangerous steep slopes in a given area. 
 
-Citing from the original readme, /"The algorithm produces a raster map (asci format) which values ranging from 0 to 1. A value of 0 indicates locations where avalanches are not possible to release whereas a value of 1 corresponds to locations that are highly favourable for avalanche release."/
+Citing from the original readme, "The algorithm produces a raster map (asci format) which values ranging from 0 to 1. A value of 0 indicates locations where avalanches are not possible to release whereas a value of 1 corresponds to locations that are highly favourable for avalanche release."
 
 Both the original and the extended tool help avalanche practictioners in their forecasting activity.
 
