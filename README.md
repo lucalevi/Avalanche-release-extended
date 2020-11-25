@@ -15,11 +15,11 @@ Both the original and the extended tool help avalanche practictioners in their f
 
 
 
-## License Agreement:
+## License Agreement
 The code is licensed under the open-source GNU GPL version 3 license. 
 The only restriction if you want to redistribute the source code is:
 - you must provide access to the source code,
-- you must license derived work under the same GPL v3 license
+- you must license derived work under the same GPL v3 license.
 
 ## Citation
 If the original tool (PRA_R.r) is used in a scientific publication, please cite the following paper:
