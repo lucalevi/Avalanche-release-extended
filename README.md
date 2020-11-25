@@ -1,6 +1,7 @@
 # What is it?
 
 Avalanche bulletins use graphics, text and icons in order to inform about avalanche hazard, but detailed geographical evidence that localises the truly dangerous areas lacks. 
+
 Attempting to overcome this limitation, a numerical model was developed to support avalanche forecasters: it automatically visualises and quantifies dangerous areas free of human bias, by calculating the release propensity of slab avalanches according to current snow and weather conditions. 
 
 ## Why two R files?
