@@ -18,8 +18,8 @@ These additions aim to provide more comprehensive and accurate avalanche hazard 
 ## How It Works
 
 The algorithm produces a raster map (ASCII format) with values ranging from 0 to 1:
-- 0: Locations where avalanches are unlikely to release
-- 1: Locations highly favorable for avalanche release
+- 0: Locations that are not Potential Release Areas (PRAs)
+- 1: Locations that are totally PRAs
 
 This output assists avalanche practitioners in their forecasting activities by visualizing and quantifying dangerous areas without human bias.
 
